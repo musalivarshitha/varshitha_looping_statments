@@ -1,3 +1,3 @@
-# varshitha_looping_statments
+# varshitha_looping_statements
 # Python Looping Statements:
 This repository contains basic Python programs that demonstrate the use of looping statements:  - `for` loops - `while` loops - Nested loops - Loop control statements (`break`, `continue`, `pass`)  
