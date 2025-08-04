@@ -1,0 +1,4 @@
+l=eval(input())
+for ip in range(0,len(l),2):
+    l[ip],l[ip+1]=l[ip+1],l[ip]
+print(l)
