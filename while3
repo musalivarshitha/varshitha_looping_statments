@@ -1,0 +1,7 @@
+num=input()
+summ=0
+ip=0
+while ip<len(num):
+    summ+=int(num[ip])
+    ip+=1
+print(summ)
