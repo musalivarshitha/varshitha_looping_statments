@@ -1,0 +1,11 @@
+n=int(input())
+summ=0
+d=n
+while d>0:
+    rem=d%10
+    d//=10
+    summ+=rem
+if n%summ==0:
+    print('yes it is harshad number')
+else:
+    print('no its not harshad number')
