@@ -1,0 +1,7 @@
+s=input()
+rev=''
+ip=len(s)-1
+while ip>=0:
+    rev+=s[ip]
+    ip+=-1
+print(rev)
